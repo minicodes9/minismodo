@@ -1,5 +1,6 @@
 .navbar-brand {
-  font-family: 'Poppins', sans-serif;
+    font-family: 'Lobster', cursive;
+    color: white;
 }
 
 .navbar-dark .navbar-toggler-icon {
@@ -15,7 +16,7 @@
 
 .nav-item .nav-link:hover {
   background-color: #fff;
-  color: #000 !important;
+  color: #000;
 }
 
 .nav-item {
