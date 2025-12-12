@@ -50,7 +50,7 @@ html, body {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }
 
-.bg-lilac:hover {
+.bg-lilac{
     background-color: #D59FE3 !important; 
 }
 
