@@ -60,4 +60,14 @@ html, body {
   object-fit: contain;
 }
 
+footer a {
+    color: white;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #D59FE3;
+}
+
+
 
